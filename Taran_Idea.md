@@ -76,5 +76,5 @@ She also clicks the Favourite button on the album so she can quickly find it lat
 
 Later, she removes one of the albums from her good Vibes playlist because she wants to replace it with a newer release.
 
-- we can use cards using bootsrap to show albums 
+- we can use cards using bootstrap to show albums 
 #### This is just a rough idea ,i mean we can think to build something like this kind of 
